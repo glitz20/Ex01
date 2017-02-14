@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sapko\documents\visual studio 2015\projects\homework ex1\homework ex1\source.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Homework Ex1.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Homework Ex1\Debug\Homework Ex1.exe
+  Homework Ex1.vcxproj -> C:\Users\sapko\Documents\Visual Studio 2015\Projects\Homework Ex1\Debug\Homework Ex1.pdb (Full PDB)
